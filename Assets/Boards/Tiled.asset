@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c216831d2b9751b4f85cc634a25e76fa, type: 3}
+  m_Name: Tiled
+  m_EditorClassIdentifier: 
+  name: Tiled
+  boardPrefab: {fileID: 6366399783107450475, guid: 01132cade7bd11c4d98b961dc4551c59,
+    type: 3}
+  figuresFX:
+  - prefab3D: {fileID: 0}
+    prefab2D: {fileID: 0}
+    sprite2D: {fileID: 0}
+  - prefab3D: {fileID: 6816222554766790698, guid: a1e556556378aa141ae1b3078671254e,
+      type: 3}
+    prefab2D: {fileID: 6224515860368135017, guid: 383be4bad2030f340b124f422a0ae35d,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: ad39a03303e9a1f42bb0e404666cb938, type: 3}
+  - prefab3D: {fileID: 6038152384669595696, guid: 8dad5f7bda298b94bbdbcabb5d4e28cf,
+      type: 3}
+    prefab2D: {fileID: 5287250318704068203, guid: 31f5f30c3c4051c4ea48e1eccf8abd50,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 5bc8b8dd8adc4f3458c6e52472385c64, type: 3}
+  - prefab3D: {fileID: 430708435640390504, guid: f8f8fe69142a67b40a5e6062fad38de5,
+      type: 3}
+    prefab2D: {fileID: 8050969103350778939, guid: cca9fb4e3d391344cb6f72ad96436fdd,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: ca392956254aa9a46aa07befc60d4189, type: 3}
+  - prefab3D: {fileID: 1674678884530662564, guid: a2612721b48436c4187cbba465a3e61a,
+      type: 3}
+    prefab2D: {fileID: 8403795921415996468, guid: ab00acf5aa1359c4bb2830e4b4769c78,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 6f1b19194f818da48b9c6f2e12b71dca, type: 3}
+  - prefab3D: {fileID: 8465782683810124451, guid: c059147019ca11f428c936b1705c11a3,
+      type: 3}
+    prefab2D: {fileID: 8418098713055790963, guid: 17e8edeba5d9cb6489156485dc6295b2,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 57ede5d34beff214097e5fccf1bbae74, type: 3}
+  - prefab3D: {fileID: 1364049399253931604, guid: 6284f3e6952395744a376aa052b16723,
+      type: 3}
+    prefab2D: {fileID: 7742612096913125612, guid: 4e8cbcfd6177b864f838ee6d924b0076,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: d00e0a06fa236be429c95daf8c77b23e, type: 3}
+  - prefab3D: {fileID: 4653799498220532165, guid: 778719447ed52c243a5995d3c1a0bf56,
+      type: 3}
+    prefab2D: {fileID: 6550570147072353296, guid: 21da83dc68eaf5a44a932645c7a2d074,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 04e86fcecb9f8bf4a98818dc999cad12, type: 3}
+  - prefab3D: {fileID: 6539833969765847681, guid: eb355582095072f4ca48ced99c183e52,
+      type: 3}
+    prefab2D: {fileID: 931800424295898553, guid: bc92307236dbf12468f0f055b3830970,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: fda2ea03cfe1d3d428a75d63e198a5f1, type: 3}
+  - prefab3D: {fileID: 954013581795831604, guid: 26c8d940ab8359449b0a7a2a377cdde9,
+      type: 3}
+    prefab2D: {fileID: 6641233308413826506, guid: 69346b324a5af0c49af00543aa175cdb,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 8aab716930e12cd4489fb1a6304170aa, type: 3}
+  - prefab3D: {fileID: 7598814752913039561, guid: 04d63b0caee57bb40907073befd0363b,
+      type: 3}
+    prefab2D: {fileID: 8167636503734877617, guid: 6a2b8318cb2968042bf723c8cbd6e727,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: c84458a43fc85b945999aba52a53520f, type: 3}
+  - prefab3D: {fileID: 5578335631597547010, guid: 863c4cefb097c564594cb0462b0a9811,
+      type: 3}
+    prefab2D: {fileID: 2895538610860627228, guid: 53da143e12d52b241b6b9979ddeead5b,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 3cb26176d81b95c4bb110bb80eb1c498, type: 3}
+  - prefab3D: {fileID: 340288733470690559, guid: 562fc7a6f38940147b1ef9291d93c724,
+      type: 3}
+    prefab2D: {fileID: 9196612590795624965, guid: 745de48896b280744ae2f7eec34de965,
+      type: 3}
+    sprite2D: {fileID: 21300000, guid: 903bbd19cb4158243b2b1eb0b8fa66c0, type: 3}

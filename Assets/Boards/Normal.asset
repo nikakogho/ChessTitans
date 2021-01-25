@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c216831d2b9751b4f85cc634a25e76fa, type: 3}
+  m_Name: Normal
+  m_EditorClassIdentifier: 
+  name: Normal
+  boardPrefab: {fileID: 3025067702964933250, guid: 738f4ac2e5946eb4a84f3d38c6d2cabd,
+    type: 3}
+  figuresFX:
+  - prefab3D: {fileID: 0}
+    prefab2D: {fileID: 0}
+    sprite2D: {fileID: 0}
+  - prefab3D: {fileID: 1807631720642372644, guid: 68b53d898a0962747a78107188f10f5b,
+      type: 3}
+    prefab2D: {fileID: 7440089300046738501, guid: 827a4b37bd8d0324bb7584ad4d8b9f7d,
+      type: 3}
+    sprite2D: {fileID: -7789975960060731964, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 1299752414876146590, guid: 415c448bb4d27734fbe4185f91efded9,
+      type: 3}
+    prefab2D: {fileID: 5063617814358651104, guid: b3434c2abd0e3ef47ae6d5a36abc4d8c,
+      type: 3}
+    sprite2D: {fileID: 703136958254956172, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 1636339147419344796, guid: 7d45c7a0e0366114580463aab570f5ed,
+      type: 3}
+    prefab2D: {fileID: 1195405000473175707, guid: 72e9b76b9e9fda24e953e60a2b0e01a1,
+      type: 3}
+    sprite2D: {fileID: -8235261818188171682, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 3067947476955057153, guid: 4aeb14319d852d2448fc8922ffc16e7e,
+      type: 3}
+    prefab2D: {fileID: 396054033889798669, guid: ae45669a5325ef14a8a04fb7927d1b3c,
+      type: 3}
+    sprite2D: {fileID: -5574107104409808488, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 8050543100403055804, guid: 1a92803e6c70bba40abc96341dc21b3d,
+      type: 3}
+    prefab2D: {fileID: 1263539424578543222, guid: 9315d842a5e783f478f865a8940cd8f7,
+      type: 3}
+    sprite2D: {fileID: 7671603865868533011, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 5504307374788176341, guid: 61a131bf53003cd4ab0dd9e5dfad872f,
+      type: 3}
+    prefab2D: {fileID: 7839550505552658779, guid: 40593b8d3bc0486439b9408be1724bf8,
+      type: 3}
+    sprite2D: {fileID: -1581722383949364774, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 7951884084306286382, guid: 0710c77cd1058e449883e695f74cac8e,
+      type: 3}
+    prefab2D: {fileID: 6766112592599337369, guid: aba4552e4485873488be9326953a9e14,
+      type: 3}
+    sprite2D: {fileID: 5475164087668022586, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 1769650715270880850, guid: 71357a1757a3382459d20b109a502ff0,
+      type: 3}
+    prefab2D: {fileID: 1213884600600615786, guid: 861dcec6d34bb7d4f915dffad9541e26,
+      type: 3}
+    sprite2D: {fileID: 3365053811631828957, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 6158304523674716749, guid: 5a470ff0559127341b26e49fce0114a1,
+      type: 3}
+    prefab2D: {fileID: 5700122297124027359, guid: 97ed90ddc1ed6904e83f28113fdadff5,
+      type: 3}
+    sprite2D: {fileID: 4213854922709279653, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 1046240990079055142, guid: 4d569cf4ea8501c4b94fe931dc1eac1c,
+      type: 3}
+    prefab2D: {fileID: 2940497168442490700, guid: c06c8b4819556a34aa7485d6c1302cfe,
+      type: 3}
+    sprite2D: {fileID: -1401633671789345826, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 1332579931078971642, guid: bb80410455df68b46872afa2feb12df5,
+      type: 3}
+    prefab2D: {fileID: 6756875444624602004, guid: 9754f22de2b6f2144965ee17c2bb2a95,
+      type: 3}
+    sprite2D: {fileID: -2452980614585211454, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
+  - prefab3D: {fileID: 3485167268936117087, guid: 72642d6e6b82a30498f003d48927c341,
+      type: 3}
+    prefab2D: {fileID: 1379358847220195056, guid: 49e87cedb72ce11408757695b654b11e,
+      type: 3}
+    sprite2D: {fileID: -1286929453436069682, guid: ab38e3a20d512ac47841fb618112f8ae,
+      type: 3}
